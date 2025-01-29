@@ -25,7 +25,7 @@
 
 ---
 
-**Q4 What are the key points mentioned by a speaker to build a growth mindset (explanation not needed) **<br>
+**Q4 What are the key points mentioned by a speaker to build a growth mindset (explanation not needed).**<br>
 
 - A fixed mindset assumes abilities are innate, while a growth mindset believes in continuous improvement.
 - People with a growth mindset trust their ability to learn and improve.
